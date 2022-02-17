@@ -10,10 +10,10 @@ int main()
     int y = x + 100;
     int mult = x * y;
 
-
-    int random = 1004;
+    int random = 1000;
     std::cout << mult;
     std::cout << '\n';
     std::cout << random;
+
 }
 
